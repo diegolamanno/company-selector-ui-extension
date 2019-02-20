@@ -1,0 +1,6 @@
+{
+  "id": "clearbit-company-selector-extension",
+  "name": "Clearbit company selector extension",
+  "src": "https://build-krwdjsjpto.now.sh/",
+  "fieldTypes": ["Text"]
+}
